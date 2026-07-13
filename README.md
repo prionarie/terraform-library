@@ -1,2 +1,2 @@
 # terraform-library
-first terraform library for portfolio projects
+Module library in progress for undergoing enhancements of my BS Information Technology semestral final projects.
